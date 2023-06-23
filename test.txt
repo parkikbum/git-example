@@ -1,2 +1,2 @@
 test textfile 입니다.
-confilict1
+conflict2
