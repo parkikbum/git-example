@@ -17,6 +17,15 @@ class ViewController: UIViewController {
     func test() {
         
     }
+    deinit {
+        deinit {
+            deinit {
+                deinit {
+                    d
+                }
+            }
+        }
+    }
     
 }
 
